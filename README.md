@@ -1,16 +1,20 @@
-### Hi there 👋
+# My Info
 
-<!--
-**ABHI-Codder/ABHI-Codder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Codder/Developer
 
-Here are some ideas to get you started:
+I make ,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Discord Bots](https://lol.siya.ml/) 
+
+- [NPM Packages](https://www.npmjs.com/~abhi008) 
+
+- Games/Apps
+
+- API'S
+
+## My Public Discord Bot
+
+I have a Public Discord bot with many features and more than 500 command's .
+
+[Invite from here](https://lol.siya.ml/) 
+
