@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abhidevs246@gmail.com**
 
-- 📄 My WebPage [https://abhi.ninja/](https://abhhi.fun/)
+- 📄 My WebPage [https://abhi.fun/](https://abhhi.fun/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
