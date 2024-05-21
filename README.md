@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI DEV**
 
-- 📫 How to reach me **abhidevs246@gmail.com**
+- 📫 How to reach me **contact@abhi.fun**
 
 - 📄 My WebPage [https://abhi.fun/](https://abhhi.fun/)
 
