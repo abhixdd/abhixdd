@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **AI DEV**
 
-- 📫 How to reach me **contact@abhi.fun**
+- 📫 How to reach me **contact@abhix.me**
 
-- 📄 My WebPage [https://abhi.fun/](https://abhhi.fun/)
+- 📄 My WebPage [https://abhix.me/](https://abhhix.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
