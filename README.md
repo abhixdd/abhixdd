@@ -1,19 +1,42 @@
-<h1 align="center">Hi 👋, I'm Abhinav A</h1>
-<h3 align="center">AKA ABHI , I am a Programmer and I code Stuffs</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Auto-Code AI**
+<pre>
+  ___  ______  _   _ _____ 
+ / _ \ | ___ \| | | |_   _|
+/ /_\ \| |_/ /| |_| | | |  
+|  _  || ___ \|  _  | | |  
+| | | || |_/ /| | | |_| |_ 
+\_| |_/\____/ \_| |_/\___/ 
+       COMPILING... 100%
+</pre>
 
-- 🌱 I’m currently learning **AI DEV**
+<samp>
+  <br>
+  「 <b>PRESS START TO CONTINUE</b> 」
+  <br>
+  <br>
+</samp>
 
-- 📫 How to reach me **contact@abhix.me**
-
-- 📄 My WebPage [https://abhix.me/](https://abhhix.me/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/692hduKSBT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/692hduKSBT" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/HP-100%2F100-gray?style=for-the-badge&logoColor=white" alt="HP">
+  <img src="https://img.shields.io/badge/MP-FULL-blue?style=for-the-badge&logoColor=white" alt="MP">
+  <img src="https://img.shields.io/badge/XP-LEVEL%2098-red?style=for-the-badge&logoColor=white" alt="XP">
 </p>
 
+</div>
+
+---
+
+### 👤 Character Selection
+
+> **System Message:** Loading player profile for `abhixdd`...
+
+```yaml
+Name:        Abhinav
+Class:       Software Engineer
+Guild:       Open Source
+Location:    Interplanitary
+```
 ![snake gif](https://github.com/abhixdd/abhixdd/blob/output/github-snake-dark.svg)
 
 
